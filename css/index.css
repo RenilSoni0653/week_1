@@ -1,0 +1,37 @@
+.center {
+    margin-right: 50%;
+    width:50%;
+}
+
+.myDiv {
+    width: 15%;
+    height: 230px;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.profile_img {
+    margin: 10px;
+    width: 120px;
+    height: 125px;
+}
+
+.profile_txt {
+    color: white;
+}
+
+.main_info {
+    bottom: 520px;
+    right: 800px;
+}
+
+td {
+    color: white;
+    padding : 15px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

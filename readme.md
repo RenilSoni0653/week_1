@@ -7,16 +7,13 @@
 ## Tasks
 
 - [x] Create home page
-- [x] create finance page
-- [x] Add some styles
-- [x] add image
+- [x] Add content
+- [x] add images both background and profile
 
 ## Leaning curve and challenges
 
-- point 1
-- point 1
+- First of all, it was bit difficult to adjust content in the page because there is not such huge data here but somehow I managed to arrange data and also I have set background image for better view rather than plain white background.
 
 ## Resources
 
-- resource 1
-- resources 1
+- W3Schools
